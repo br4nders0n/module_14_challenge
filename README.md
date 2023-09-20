@@ -53,5 +53,7 @@ I do not believe that the logistic regression backtest performed well. The model
 
 ## Evaluation Report
 
-In summary, 
+In summary, the model where I adjusted the short window to 5, long window to 25, and date offset to 1 yielded the best results to the baseline. 
+
+
 
