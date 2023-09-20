@@ -43,7 +43,7 @@ Changing the short window to 5, long window to 25, and date offset to 1. Yielded
 
 ## Evaluate a New Machine Learning Classifier
 
-For this section, I imported the LogisticRegression classifier from SKLearn to backtest the model.The results are as follows:
+For this section, I imported the LogisticRegression classifier from SKLearn to backtest the model. The results are as follows:
 
 ![Screenshot 2023-09-19 at 9 15 10 PM](https://github.com/br4nders0n/module_14_challenge/assets/133409952/914d287e-3a04-46e7-af8d-996e36e4782b)
 
